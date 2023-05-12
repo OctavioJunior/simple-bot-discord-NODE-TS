@@ -21,6 +21,10 @@ export const commands = [
         required: true
       }
     ]
+  },
+  {
+    name: 'swapi',
+    description: 'Traz um personagem de Star Wars'
   }
 ];
 
